@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>list page</h1>
+	<h1>list page test</h1>
 	<table>
 		<thead>
 			<tr>
